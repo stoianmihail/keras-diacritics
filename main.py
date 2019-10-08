@@ -1,9 +1,9 @@
 # Instructions:
 # Training: you should have a text which is written with diacritics.
 # Within the implementation, a new text without diacritcs is created, which will be the baselin for training.
-# For that: python main.py train --train train.txt --test validation_data.txt --epochs 200
+# For that: python main.py train --train dataset/train.txt --test dataset/validation_data.txt --epochs 200
 
-# Transform into diacritcs: python main.py serve --weights output.hf --test test.txt
+# Transform into diacritcs: python main.py serve --weights output.hf --test dataset/test.txt
 # We changed a bit the structure, but --test refers both to the validation_data and the text to be analyzed
 
 import argparse
