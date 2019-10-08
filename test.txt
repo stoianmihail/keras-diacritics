@@ -1,0 +1,1713 @@
+bai
+ai plecat in germania?
+eu nu am avut whatsapp vreo saptamana
+intra pe facebook sa vezi ce poze au iesit din filmele alea. le-ai vazut?
+nu ziceai ca incepi maine? mult noroc ba!!
+cum esti ba?
+ai avut deschiderea?
+
+nu
+e bug de la facebook
+eu initial am crezut ca singur ti-ai scris, iti dadusem si like
+apoi mi-a aparut corect in notificari
+
+e o demonstratie banala, mi-a luat atat ca a trebuit sa caut in curs definitiile :))
+noi am trecut la logica propozitiilor la cursul ala, a zis ca ce am facut de teoria multimilor inainte era pregatitor si nu o sa mai folosim
+_in apararea mea_
+
+erai vreodata altfel? :))))
+o fi fost luni
+vorba aia
+pai asa se face
+la ambele
+se deschide gura mare si se bea vin :))))
+canti la biserica ortodoxa?
+nu vreau sa stiu in ce circumstante a invatat asta
+n-am prea mai apucat sa vorbim
+sunt curios, ce inveti pe acolo? la mate, de exemplu
+noi facem analiza, algebra si logica
+si cum te descurci cu cursurile in germana
+da, poti oricand
+stai linistit
+eu am dat de niste inregistrari din clasa a unspea de care nu mai stiam
+poate iti mai trimit, dar nu e necesar sa imi raspunzi
+lol
+am si eu problema asta, dar la facultate
+iti povestesc cand vorbim :))
+(iti raspund mai pe seara, sper)
+bai
+tu inveti la TU-Munchen
+si mai specific de atat? facultate, specializare? altceva?
+da
+aoleu sper ca nu inregistrezi in germana
+stai, fii mai specific
+cand nu va lasa? cand aveti laboratoare?
+:)))))))
+nu prea pricep :)))
+a, nasol
+pai uita-te la codul lui francu si rescrie-l
+nu da copy paste :))
+si a comentat sistemul de plagiat?
+pai da lol
+pe noi ne lasa sa cautam
+cum e si rezonabil sa faca, de altfel
+ummm
+da
+daca chiar ti-e teama ca se declanseaza sistemul anti plagiat
+baga, de exemplu, #define int jurcanuplagiez
+si apoi inlocuieste fiecare int cu "jurcanuplagiez" :))
+schimba instructiunile repetitive in instructiuni if si goto
+in loc sa scrii v[i] scrie i[v]
+sau *(v+i)
+unde scria?
+s-au uitat pe codul tau si te-au intrebat?
+nu stiu ma, eu ti-as zice sa stai calm
+ca pe principiul asta orice fel de invatare inseamna plagiat
+daca inveti ceva de la cineva si apoi pui in practica, ar insemna ca ai plagiat de la el :))) stai linistit
+cata vreme nu dai copy paste si _stii_ ce faci acolo, nu plagiezi
+da ma, stiu
+dar sa plagiezi inseamna sa iei cu copy paste zeci de linii de cod, nu sa te uiti pe 5 linii scrise de francu si sa le rescrii
+ai invatat in liceu la un cerc de informatica? chestie care chiar s-a intamplat
+nici macar in ce ai facut deja la cursuri?
+hmmm
+pai si in cursuri nu ai ceva care sa te ajute?
+atunci lol, am facut la liceu algoritmul asta
+temele sunt pe structura problemelor de infoarena? adica aveti timp de executie, memorie maxim admisa etc?
+nu stiu ma ce sa-ti zic
+daca chiar ti-e teama, fa permutarile cu backtracking, cum face toata lumea
+lol
+deci nu aveti voie sa va uitati in alta parte decat in curs, va cere permutari iterativ, dar la curs nu ati facut permutari iterativ
+si zici ca lumea discuta ca "de unde sa stii tu algoritmul asta iterativ?" pe forum
+lol
+am prins ideea
+pai ma
+sterge tot ce ai scris
+nu te mai uita pe algopedia
+niciodata, adica
+si rescrie numai cu ce ti-a ramas in cap
+daca iese codul, atunci esti ok. ai invatat algoritmul in liceu, ceea ce chiar ai facut. daca nu, lasa-l
+hai ma, zi-mi :))) ca chiar daca te dau afara (nu se va intampla, lol), doar nu o sa te trec ca "nu a fost admis la nicio facultate"
+vreau sa termin mai rapid cu clasa noastra
+da, pentru statistica aia
+mersi
+auzi
+de maria sima mai stii ceva?
+deocamdata o fac in notepad
+dar cu baze de date ar fi cel mai inteligent, da
+super
+pai acum nu cred ca mai poti fi suspectat de nimic
+eu nu mai am habar de nimic de sql deocamdata :)))
+daca nu ma descurc, te mai intreb si pe tine, da
+scz, sunt incapabil sa raspund la mesaje
+eu doar pot sa trimit :))))
+am ras cand am citit :))) o urare mai buna in momentul asta ar fi
+"la cel putin o facultate!" :))
+in fine, glumesc, dar poate in sesiune nu o sa mai glumesc
+lol eu nu stiu ce fac cu viata mea
+pana maine am de implementat arbori avl si de citit doua texte la filosofie
+n-am facut nimic
+si pierd vremea uitandu-ma prin poze vechi :))))
+evident, nu e *deloc* acelasi tip de burden
+si mai si exagerez
+dar acum fara exagerari, e o temere constanta a mea ca o sa pic la jumatate din examenele de la ambele facultati :))) sper sa nu se intample totusi
+da, exageram, am facut aseara mare parte
+mai am de reechilibrat la stergeri
+dar mi-e cam lene
+oricum, fac in seara asta
+sunt curios
+voi ce faceti la info pe acolo?
+noi avem o materie de algoritmi si o materie de c, de limbaj propriu-zis
+in fine, si una de assembly si arhitectura calculatorului
+tu ai invatat toate astea singur? de pe net?
+eu fac asta cu un dobitoc
+parca am mai povestit despre el
+adica omul e foarte destept, dar nu mai e demult printre pamanteni cu mintea :))
+nu
+adica nici nu stiu
+dar nu cred ca facem acelasi fel de assembly
+noi facem mips, nu stiu exact de ce
+cred ca 90% e la fel, nu stiu unde difera
+dar e altfel de arhitectura
+si eu as vrea sa facem pe x86 :))) asa mi se pare normal
+nu stiu de ce facem mips, in fine
+mersi
+tot nu mi-ai zis, voi faceti algoritmi/structuri de date?
+am inteles
+nu vazusem, lol
+au un magazin. probabil te duci la magazin sa-l ridici
+Maximilianspl. 10, 80333 München, Germania
+poate il au expus :))
+nu cred ca ramane sub 25. eu ti l-am trimis mai mult ca fapt divers, ca ma astept sa ajunga pe la 80 :))
+vorba aia: _nu dadeai 2 bani pe moneda aia_ in 1867, si uite acum cat face!
+habar n-am. asta e mate de a saptea si nu mai stiu :))
+nu e necesar doar
+patrulater cu un unghi drept?
+da
+lol ok
+habar n-am? cine e asta?
+nu stiu, andreica si mai cum?
+tu iti dai seama cat de puternic era leul in 1883?
+bai, eu in weekend sunt plecat la tara
+tu poti in ajun?
+eu nu prea am semnal aici
+dar o sa incerc sa-l sun
+
+
+bun
+deci la 10 la koch?
+ce cantam?
+colo sus, noi in seara de craciun?
+eu am mai cantat colinde cu niste baieti si le stiu deja pe alea doua
+atunci 11 :))
+ok
+bine
+am mai cantat unul, iata vin colindatori
+dar nu e ala clasic
+e unul taranesc
+asta nu e cine stie ce
+da
+cant eu basul la noi in seara de craciun
+ce canta domi adica
+ce insertii?
+pai da
+eu cant "noi in seara de craciunnnnnnn"
+si tu intri peste mine pe "ciun"
+pe aia fa-o tu
+ca n-am cum sa ajung si atat de sus atat de repede :))
+
+eu cant cam asa
+cred ca e fals
+in fine
+si tu bagi
+
+cred ca asa ar fi cel mai bine
+sau invers
+bine, sper sa sune maine bine :))
+da
+cantam
+(Versuri - Radu Gyr)﻿ lol
+te cred :)) suna bine
+pai da, la 10:50-11, e ok
+:))) e ok, dar si eu pot sa stau doar pana pe la 11:30
+te las pe tine cu koch, ca tu esti protagonistul
+nu te grabi
+serios
+si eu sunt in 385 abia, mai am min 20 de minute
+plec pe la fara un sfert
+ok nu fugi
+merg si eu incet atunci
+mersi
+nu e nevoie, doar coperta voiam sa o vad
+sa stiu ce caut
+ma enerveaza sa citesc text scanat :))
+aaa, nu, tine-o
+nu de alta, dar eu nu o mai dau inapoi daca ajunge la mine
+lol
+:))) misto
+aratam cam stupid
+bufonii la curtea regelui
+iarta-ma de non raspuns
+canal de youtube, lol
+nu stiu, mate/info
+exact ce prezentai si in liceu
+sau sa prezinti biserica ortodoxa germanilor
+dar nu nu, mate sau info
+sa nu fie doar indieni pe YouTube
+lol
+:)))) nu am observat
+ce zici de asta?
+165 ambele ceasuri
+oare cat imi cere un ceasornicar sa le faca 100% functionale?
+daca e in limite rezonabile, ma gandeam sa le iau, le duc la ceasornicar, si unul il dau pe ebay si unul il tin
+bine
+150 ambele ceasuri
+habar n-am cat e o revizie, de-aia te intreb pe tine. le fac service amandurora de ~100 de lei?
+adica 50 fiecare?
+30 de secunde pe zi nu e asa mult
+am inteles
+da, pai si dupa mecanism, ala e mai vechi
+anii 60, cam asa
+nasol
+si sunt greu de gasit piesele?
+la astea rusesti ma gandesc ca nu
+sigur ca e doar o presupunere
+dar tot e mai informata decat o presupunere pe care as face-o eu :))
+bine, mersi mult
+ma tenteaza sa le iau, in cel mai rau caz le dau pe ambele pe ebay
+unde e cerere mult mai mare decat in romania, dar astia care vand aici nu stiu
+la piese sau la mecanism?
+adica sa-l demontez eu inainte?
+pai nu :)))
+cum adica un semn la fiecare?
+nu, ca e de bun simt
+adica reparatorul de aparate la care merg face el pozele
+in timpul reparatiei
+daca nu face ceasornicarul, e normal sa fac eu
+dar tot nu prea inteleg
+e ok :))
+i-am dat mesaj ca i le iau
+se speram la ce mai bun acum
+iti zic
+am luat ceasurile
+vizual arata superb
+intr-adevar, la unul e secundarul cam beat
+si celelalt se armeaza cam greu
+iti arat
+dar per total, very very good deal, cum ar zice trump
+75 de lei pe un poljot
+s-a mirat omul de mine, m-a intrebat ce fac cu ele :)) m-am blocat un pic
+bafta la examene intai
+cat e sesiune nu stau sa le repar
+lol miros a fum de tigara
+
+e cam miscata poza
+
+
+
+ce gasesti cand cauti despre bubble sort in limba romana:
+"Este cea mai eficienta metoda de a ordona elementele unui vector crescator sau descrescator"
+voiam sa semene cu
+facuta in ziua in care urss a invadat cehoslovacia
+da
+aluia cu curea maronie cred ca i-a mai fost spalat cadranul odata
+daca te uiti atent vezi ca sunt dreptunghiuri de mizerie in jurul scrisului. ca sa nu se ia la curatat cum ti s-a luat tie :))
+ar fi misto
+of
+ar trebui sa ne comportam cumva special cu koch? sa ii spunem ceva? nu stiu
+sper ca el e ok si nu e prea afectat. nu il prea vad pe koch afectat mental de nimic, dar cine stie
+ti-a spus stanca?
+da
+sper ca era pregatit cumva
+nu vreau sa sun cinic, dar chiar sper
+tin minte prima data cand am fost la el, in decembrie 2015, vorbea cu cineva (acum gandindu-ma, cred ca cu stanca) si ii spunea ceba
+ceva de genul: "stii ca s-ar putea sa fie ultimul Crăciun pe care il prindem cu ea"
+e bine ca n-a fost ala si au mai fost trei intre timp
+sau sper ca e bine
+da, ok
+ea cum pare?
+acum mi-am dat seama
+ziceai ca vii de paste?
+pai aveti vacanta de pastele ortodox?
+ce mai faci omule
+eu am terminat cu toate examenele
+aproape nu imi vine sa cred, dar e aproape sigur ca iau tot
+singurul motiv pentru care nu zic ca e sigur e ca inca nu am toate rezultatele, dar acolo unde nu am, nu vad cum as fi putut sa fi picat
+crezi ca e ok daca il sun pe koch zilele astea? vreau sa il intreb de ceasornicar
+as trece pe la el, dar ma gandesc ca asta chiar l-ar deranja
+tu mai ai de dat ceva?
+n-am facut deloc combinatorica, imi pare rau
+poate semestrul asta care vine facem
+mult noroc!! ai grija sa dormi, ca eu n-am prea dormit si am ajuns leguma pana la urma
+pe termen lung mai bine dormi :))
+citeam "nebenbei" romaneste si credeam ca e vreun moldovenism, lol
+tu mai stii ceva de maria sima?
+l-am sunat pe koch
+era un pic ragusit, cam fara chef
+dar mai mult nu mi-am dat seama :))
+cred ca asa suntem toti
+sper ca e ok
+am jucat carti cu un prieten cu pachetul nostru
+si era ciudat sa o vad acolo
+e bine atunci
+mie mi-era teama de mult mai rau
+treci prin sesiunea asta cu ochii inchisi si negandindu-te la nimic altceva
+apoi cred ca o sa mai treaca
+da, stiu cum e
+eu am facut ceva foarte nasol inaintea tuturor examenelor, am amanat invatatul pana in ultimul ultimul moment
+si am stat treaz toata noaptea de dinainte de ele
+a fost foarte nasol
+crede-ma pe mine :)) gandeste-te la cat de nasol ar fi sa amani atat
+ah, esti super ok
+cand ai urmatorul (primul?) examen
+oricum tu te descurci
+adica si daca improvizezi iti iese bime
+acum lasa ce se intampla cu tine, o sa fii ok dupa
+e contraproductiv sa stai acum sa te gandesti la asta
+si eu ma tot gandeam inainte de examene, apoi imi ziceam: ba, tu acum trebuie sa inveti, vezi dupa de restul lucrurilor
+o sa iti revii. canti la biserica ortodoxa?
+nici n-aveai ce sa mai inveti lol
+pai nu conteaza, dupa examene du-te si canta mult
+si mai plimba-te prin oras, cauta junghansuri si holbeaza-te la ele (nu cumpara :)) )
+ai vacanta dupa, nu?
+am inteles
+ma rog, tot o sa ai niste ragaz cred
+o sa se puna atunci lucrurile in ordine
+pana la paste cred ca o sa se stranga prea multe :))
+nu stiu care e contextul, dar nu te astepta sa fie nimic extraordinar sau perfect
+nici mie nu mi-e
+dar e cea mai buna abordare in contextul asta
+saptamanile astea trebuie sa demonstrezi care e capacitatea mentala maxima la care poti lucra, atat
+nu prea e util sa te pui la indoiala in perioada asta
+si da, ca nu e util nu inseamna ca nu trebuie sa faci
+dar e safe choice, nu cred ca o sa ai cum sa regreti daca iti pui in background un pic nesiguranta
+e atata timp _dupa_ sa fii nesigur :))
+dar probabil nu o sa mai ai in legatura cu ce sa fii nesigur dupa examene
+ca o sa iasa ok si nu o sa mai fii stresat
+sau nu la fel de mult
+vezi cum iti iese, sa imi zici
+la mine a mers, eram gata de vreo 3 ori sa nu ma mai duc la examen la filosofie :))
+dar mi-am zis "nope, ai ales asta in vara, mergi pe decizia asta deocamdata, concluziile le tragi dupa"
+si acum imi dau seama ca a fost alegerea corecta, pentru ca nu ma mai gandesc sa nu mai merg la filosofie
+vai de capul meu cate poljoturi false se vand pe ebay
+la preturi de te doare mintea
+parca nu
+stai asa
+dar nu stiu nici ce cere, nici cum se rezolva :))
+de pe wikipedia
+da, dar de pe pagina bogo sort :)))))
+deci nu te astepta la cine stie ce
+e posibil sa fie
+nu, eu nu ma pot inscrie
+Unrecognized Google Account
+oricum nu stiu daca as fi capabil
+mai trebuie nitica munca :))
+bai, mi-am adus aminte de ceva, dar nu mai tin minte detaliile
+mai stii ca la inceputul clasei a noua aveai un caiet care avea scris pe prima pagina o zicala, sau ceva de genul asta?
+si la prima ora de logica ai intrebat-o pe savu ce sens are, si am raspuns eu?
+mai ai idee ce scria? parca era ceva cu relatia de prietenie, nu mai stiu
+cred ca mi-am adus aminte
+ca daca esti prieten cu toti, nu esti prieten cu nimeni
+nu?
+suna misto
+dar tre sa ai in vedere ca luxemburg oricum e tara bilingva
+jumate vorbesc nativ franceza, jumate germana
+si probabil toti o vorbesc pe cealalta ca limba doi
+carti in limba autorului nu e prea greu, eu nu mai stiu nimic post-1600 care sa nu fie ori in germana (80%), ori in franceza, ori in engleza :))) norocul de a fi luxemburghez
+oricum, dupa un semestru si un pic la filosofie vad ca e tare importanta greaca veche, pe mine mai rau ma enerveaza ca s-a scos la un moment dat din lista de cursuri
+dar de unde stii?
+ah, m-ai facut sa fac niste legaturi. am un prof care stie greaca veche dar zicea ca a invatat germana trei ani dupa care a zis "am invatat suficient, ma opresc aici" :)) germana zice ca o inveti o viata intreaga
+roman?
+
+vs
+
+:))) de ce razi de mine
+bai, nu vreau sa te bat la cap. nu iti mai trimit daca te deranjeaza
+am crezut ca zici la misto :)))
+nu prea vedeam de ce as fi tare pentru asta :))
+pai cam asa e
+nu doar ea zice asta
+e corect, asa e limba romana
+e redundanta prin natura ei
+ma intrebam de ce ai formulat asa dubios, lol
+nu prea ai nevoie de did in fraza aia
+asa e in germana? :))
+intra ma pe zimmer inapoi :))
+e pustiu fara tine 
+da, de mult timp
+mai e si un watts
+ba stiu ca imi tot zici ca nu mai vrei sa cumperi, dar poate te intereseaza ce preturi mai au :))
+da
+despre ce era vorba?
+:)))) poate trebuia sa o intrebi pe ea atunci, nu pe mine
+dar sa-mi povestesti cand vii in tara
+cand crezi ca ai avea timp sa ne vedem?
+eu am avut un singur test acum, o sa mai prin mai mai multe
+am bagat o de-aia ca in liceu: am intrebat ce a dat la alta grupa si am invatat doar aia
+lol
+nush ce fac la examen la algebra, ca a zis ca o sa ne dea mai greu decat in teste
+nu prea inteleg datele alea. mi-am pierdut notiunea timpului
+18 e joi. e ok, pot si eu de atunci
+doar ca joi ies la 6 (daca nu chiulesc)
+deci probabil de vineri incolo
+bine
+gulie ma invita la liceu
+nush daca sa ma duc
+adica "la liceu": ma intreba daca nu vin sa mai spargem o usa :)))
+e la el
+am scris pe zimmer acum vreo doua zile, iti dau forward
+ba, m-a sunat savu
+cica a stat de vorba cu diriga despre clasa noastra, pe unde mai e fiecare
+si eu eram singurul despre care diriga nu mai stia nimic, si nici savu nu stia :)))))
+m-a sunat sa ma intrebe la ce facultate m-am dus
+lol
+ce e amuzant e ca eu le-am zis amandurora ca merg si la info si la filosofie
+savu a zis ca nu mai tine minte
+diriga probabil a crezut ca zic la misto :)))
+:))))))
+asta e un fel de
+"de cine iti place mai mult, de mama sau de tata?"
+:)))))))))
+nu
+moromete nu s-ar fi dus la facultate
+lol
+ba, stanca chiar mi mi-a mai zis nimic de cand i-am aratat melodia lui toni
+si eu _chiar nu i-am trimis-o la misto_
+voiam sa vada si ea, profa de o materie artistica la vianu, ce "arta" produc absolventii de vianu
+e clar ca n-a inteles
+regret un pic
+ma gandesc, poate nu l-o fi recunoscut pe toni?
+ce parere ai de melodia asta
+
+a facut-o oana
+clasa a noua
+cand am fost la teatru la inceput de tot, prin octombrie
+si imi ziceai de koch si vectori
+si de mcdonald's
+aoleu
+momentul ala cand intelegi textul chirilic mai bine decat ala in germana
+"puterea muncii sau razboi"?
+vezi, stai departe de d-astia
+ca mai devin si violenti uneori
+dar uite, daca iesi asa in strada in romania esti linsat instanteu. nimeni nu vrea sa auda de comunism
+diferenta 50 de ani de democratie vs. 50 de ani de comunism
+sa-mi zici
+
+
+
+
+
+
+
+
+
+sunt la filosofie
+dar sunt pe bicicleta
+deci putem sa me vedem
+si chiar as vrea
+
+
+poljotul si vympelul
+eu nu-mi dau seama daca pretul ala e pentru toate sau pentru unul singue
+r
+daca e pentru toate, chiar ma bate gandul sa ii ofer 100 de lei pe astea doua
+adu-mi aminte maine sa iti arat ceasurile
+nu ala cu calendar
+ala alb
+de ce ai facut unsigned variabilele care tin indici din vector?
+ok, am crezut ca e vreun motiv matematic
+cat de urat am voie sa implementez aia cu diacriticele? adica cat de neintuitiv
+incerc sa gasesc o functie care sa atribuie literelor ă â î ș ț valori unice de la 0 la 4
+pe care sa le adun cu 27 si sa le calculez encoding unic
+numai ca o sa fie complet neintuitiv, si complet hardcodeala :)))
+de fapt nu, de ce ma complic, daca tot e hardcodeala nici nu mai incerc sa fac vreo functie matematica, doar bag ifuri
+adu-mi aminte
+ce ziceai tu ca mai trebuie facut?
+am facut clasa, acum e totul ok
+se corupeau variabilele globale pe undeva
+lastOrigin si rootPtr
+acum nu se mai corup
+am dat cout la toate diacriticele sa vad cum sunt stocate in memorie
+in primul rand, toate au valori negative, pe ambele pozitii
+nu, nu doar 0x80
+
+deci intai verific sa nu fie negativ charul la care am ajuns, ca daca e negativ inseamna ca e diacritica si dau pos++
+apoi ca sa vad ce diacritica e, o sa bag 5 ifuri, pe baza valorilor de acolo
+prea de taran?
+a, ok, perfect
+?
+asta ma gandeam
+am gasit 3 criterii care le impart in categorii disjuncte
+1: e par?
+scuze, 4 criterii
+dar si asta e de taran _rau_
+fuck
+1: e par?
+3 criterii***
+da, poate
+pai nu mi-e foarte clar ce sa fac dupa
+ca asa niste valori binare scot si din intrebarile alea
+ca masca aia trebuie sa o reduc si pe ea la un rezultat din {0...4}
+"last bit of code" nu intelesesem aia :)))
+am crezut ca zici "in ultima parte din codul scris"
+:))))))))
+doua lucruri
+staticTrie[ptr].code = (hideme) ? ((staticTrie[ptr].code | hideme) + 2) | hideme : connect * 2;
+mi-a scapat un "| hideme". merge, dar e redundant
+al doilea: de ce ziceam ca e necesar vectorul ala de sensuri?? da, "vise" si "visuri" sunt sensuri diferite, so what? oricum sunt imposibil de distins la singular, si oricum _cuvantul_ tot ala e, si noi calculam frecventa cuvintelor
+stiu ca eu am avut ideea, dar acum mi-o retrag
+am explicat in comentarii de ce +2
+2 e 10 in binar
+vreau sa cresc frecventa, dar sa pastrez ultimul bit neschimbat
+da
+ce 74?
+ah, linia?
+stai sa vad
+ba, eu nu ma prind, si am stat pe codul ala tpata ziua
+ce copii au frunzele?
+ah, vectorul de sons?
+care se aloca si pentru ele?
+zici sa nu-l mai scriem in binar? ok
+nu cred ca e posibil
+sunt cateva sute de mii de cuvinte doar
+a, ok
+mersi. scriu, sper sa capete o forma functionala astazi, ca apoi trebuie sa ma apuc de teme :)))
+da
+ok, ceva pare ca nu merge
+esti aici?
+al doilea poate sa nu existe vrei sa zici
+ok
+dar hai sa iti arat ce am mai facut
+esti pe calculator?
+ok nu ma descurc cu github
+
+in primul rand, #define GENMODE ala
+e pentru noi
+ok
+am bagat un #define care sa faca diferenta intre: daca vrem sa rulam programul ca sa _generam_ un trie nou, sau daca vrem sa rulam programul ca sa calculam frecvente pe un text si sa adaugam cuvintele care nu erau intr-un trie existent
+du-te la 131
+ce mai e nou: 188. asta e functia care citeste fisierul de inflexiuni de la domi
+si am implementat treaba cu frunzele
+dar dintr-un motiv sau altul, creeaza fisiere _imense_ (azi imi face unul de 18.6 mb pentru exact acelasi input pentru care mi-ar fi facut aseara un input de 13 kb), si nu pare sa raspunda corect la query-uri simple
+zi-mi ce sa explic din cod
+ah lol stiu de ce imi genereaza fisiere imense. am uitat size-ul la 2 miliarde :)))
+aia e ca sa ignor "cuvintele" cu mai multe cuvinte din fisierul lui domi
+daca imediat dupa primul cuvant vine altcea decat o cifra (dar puteam sa bag o singura conditie, sunt bou), citeste toata linia si treci mai departe fara sa faci nimic
+if !isdigit(...), evident
+habar nu am sincer
+doar am dat :w in vim
+stai linistit, acum sunt curios de feedback
+hai sa iti mai dau niste chestii
+le pun pe github
+in compilator? nu stiu
+stoi e string to integer
+mie imi merge
+primul e un exemplu super simplu de inflexiuni
+al doilea este trie-ul generat de codul meu pe exemplul ala. evident ca ti-l poti genera si singur
+
+intra pe web si descarca asta. sunt inflexiunile de la domi, parsate asa incat sa fie totul ok
+cred ca doar de atat e nevoie
+de acord, dar aia se rezolva intr-o linie
+nu prea inteleg cum de nu mi-a facut probleme
+logic ar fi trebuit sa imi faca
+ar fi bine daca aia ar face problemele, dar nu cred (ca doar ea)
+bai, nu, nu le ai deja. ce ti-am trimis e parsat de mine, outputul de la domi mai avea probleme
+caractere dubioase si chestii asemanatoare
+eu le-am luat la mana
+deci lucreaza pe ala
+:))))) ar fi o idee
+doua minute
+pai n-am ce shiftare sa-i fac
+faptul ca nu i se va adauga vreodata decat 2 garanteaza ca bitul 0 va ramane neatins de altceva decat de hideme ala
+dar uite, acum ca ma uit iar pe cod, imi dau seama ca e reduntant
+a fost scris in etape diferite, si desi merge, nu mai e foarte coerent
+linia asta:
+merge rescrisa, si e mult mai intuitiva, asa:
+in gen mode nu tin minte frecventele, ci doar daca e root, si daca nu unde trimite. deci codul nu poate fi decat 1 (e root), sau un multiplu de 2 (care impartit la doi reprezinta pointerul la care trimite)
+in afara gen mode, se adauga doar 2 la cod, adica bitul 0 ramane ala care e
+da, mi-a scapat si asta
+sigur ca trebuia sa pun paranteza, nu stiu cum am ratat-o
+e posibil
+acum ma uit pe ce zici ca nu merge
+...
+super, in constructorul normal nu erau
+nu mai tin minte daca ma asiguram ca nu se acceseaza ceva neinitializat, dar e mai sigur asa
+nu memset, direct din new
+stai, iti da si raspunsuri corecte?
+suna ok
+stai ca cred ca ma prind eu
+:))) sunt bou
+pai ce printeaza search-ul acum e fie frecventa cuvantului, daca e radacina, fie frecventa radacinii lui, daca nu e
+dar toate frecventele sunt 0
+ia stai oleaca
+mda
+eu banuiesc ca problema e in ifurile din insert
+stai sa mai investighez
+da, acolo e problema
+ai rabdare un pic
+yep
+da
+exaact
+exact*
+asta urma sa ic
+zic
+stai acum sa vad ca merge cu citirea si scrierea din fisier
+si sa-l vad ca merge pe alea de la domi
+pai cu mainul de pe ideone
+fac un trie local, salvez in fisier, fac alt trie care citeste fisierul ala, vad daca pare ca merge la fel
+dar e o problema si cu
+(pos == str.size() - 1) ? encode(str[pos]) :
+nu
+stai
+pos += (encoding > 26);
+pentru ca la insert ii baga pos + 1, recursiv
+sau?
+a, nu, e ok
+ca daca encodingul e > 26, sigur mai vin doua caractere
+te las pe tine sa mai optimizezi
+vrei sa te ajut cu fisierele binare? ai inteles ideea pana la urma?
+bine, perfect
+eu nu prea mai tin minte de ce facem trie
+nu voiam sa calculam frecventele sortat? :)))
+pai depth search ti-l sorteaza lexicografic
+da, stiu
+map din stl era arbore rosu negru?
+parca asta era
+mie nu imi crapa, dar dureaza mult prea mult
+16 secunde sa-mi zica cine e ta-su lui "mânca"
+pe fisierul de la domi
+tie cu ce iti crapa?
+nici nu sunt sigur cum sa verific. cum naiba printez cuvantul daca am pointerul ultimei litere?
+codul?
+pun acum pe ideone
+da
+incerc sa ma gandesc daca altfel nu
+ce zici tu?
+ideal ar fi sa ii zic "mâncam" si sa imi zica "mânca"
+adica pe un cuvant de m litere, parcurg de m ori vectorul de copii
+nu?
+la fiecare litera caut prin tot vectorul sa vad cine pointeaza la ea
+daca ai chef, da
+ma duc sa mananc ceva :))
+in continuare
+eu nu stiu foarte sigur daca ar trebui sa lucram in ram sau pe hard disk
+merge groaznic de incet, si dominanta cred ca e incarcarea in memorie
+dar indiferent, cred ca ar fi util sa salvam si parintii fiecarui nod pe hard disk
+ca sa ii avem fara sa mai cautam
+merg sa mananc
+cu ce zicea koch ca era tabloul ala al lui caspar david friedrich de pe ebay? o cioara?
+nu gasesc nimic
+ma cam enerveaza
+ca stiu ca nu inventeaza
+dar incurca detaliile
+cate litere sunt in alfabet?
+nu sunt 27?
+nu e z?
+The modern English alphabet is a Latin alphabet consisting of 26 letters
+great
+nu mai comentez de kocu
+h
+bine
+ce face?
+bine
+nu prea inteleg ce faci in decode
+a gata
+citeam 'a' + encoding si aveam impresia ca + e concatenare de siruri
+sorry :))
+nu doar ca intra in bucla
+nici nu lucraza pe alt pointer decat -1
+pai ma
+stai, nu
+ma indoiesc
+iti zic eu ce
+search-ul ala intoarce -1
+care ar trebui sa insemne ca e root, dar evident nu e
+ce-au astea ma, ca mergeau
+ai mai modificat altceva?
+o fi fost hardcodat rau aia cu 27 de caractere? :)))
+pai nu le baga in trie ca lumea
+merge?
+test.in
+al meu se chema test
+pe ce lucrezi, tot pe ala cu burgeri?
+mie imi ia seg fault chiar la procesarea fisierului
+tie iti merge procesarea? ca la mine citeste la infinit :))
+am gasit eu bugul
+ah, ba nu l-am gasit
+am gasit _unul din buguri_
+unul din buguri e ca daca un cuvant se termina in diacritica
+gen mănâncă
+pos-ul devine pos += 2 in functia de insert
+asa incat niciodata nu se va intampla ca size == pos
+solutia e ca conditia sa fie size <= pos
+ba
+tu de ce iterezi de la 1 in primul for din findParent?
+daca iterezi de la 1 evident ca o sa intri in bucla infinita
+stai ma
+tu ai schimbat aia si tot nu-ti merge?
+raspuns: da
+dubios
+unele merg acum
+wtf
+asta verific
+eu sper ca 111 += 2 nu da atat
+search cu "mâncăm" nu merge corect
+intoarce -1
+nu ma prind de ce
+ala, nu?
+ce ordine?
+nu ziceai tu ca ai facut asta?
+sau nu inteleg ce zici
+ala e
+in principiu
+da, algoritmul e corect
+dar ă î etc nu sunt charuri :)) sunt vectori practic
+mi-e cam greu sa-mi dau seama la ora asta
+asta cred si eu
+asa am gandit si cand am scris, ca e sigur ca e derivata
+stai sa vad mai atent
+cred ca e sigur derivat
+da, da
+le baga prost in trie
+da, ok
+dar eu zic ca trebuie regandit din punct de vedere al memoriei
+daca lucram cu toate cele doua miliarde de cuvinte odata, in ram, e aproape inutil programul asta
+ce structura?
+sunt 2 miliarde. daca sunt 500 000 de definitii, nici nu e asa mult
+sa vedem daca va fi utila
+pai deocamdata sa generam a fost tot ce am facut
+cum adica ce litere ai bagat
+ah da, am inteles
+buna asta
+da
+si asta e buna
+si noaptea e una
+buna
+noapte buna
+apropo i-am dat acum 10 minute sa gaseasca radacina lui "mananca" pe tot dictionarul
+inca cauta
+la asta ma gandeam si eu
+e buna rau ideea
+intra si tu pe zimmer ma
+observ ca de fapt eu sunt vinovat de spam
+de o saptamana vorbesc doar pe mate fizica si n-a prea mai zis nimeni nimic pe zimmer
+deci nu mai scriu prea mult, sa nu-i incurajez la spam :))) dar stai si tu acolo
+hai ca l-am pus pe mircea in poza
+asta voiam eu sa te intreb pe tine
+scuze ca te-am bagat, nu te mai bat la cap
+ma rog, ca ti-am zis sa intri
+vreo saptamana chiar nu s-a auzit de calafeteanu pe grup
+ori maine dupa 5-5:30, ori altcandva
+tu cand poti? sa mergem amandoi totusi, eu si asa sunt vraiste cu programul
+si maine?
+maine atunci
+maine ies la 16 de la filosofie
+faci 15 minute pana la koch pe bicicleta
+deci pe la 16:15 poti
+?
+da, e ok
+voina?
+ce?
+a, voinea :))))
+bine
+eu la :11
+da exact
+cand ala e gamma :)))
+eu stiu ca Lubitel se scrie cu d-ala la final
+cand am luat din targ credeam ca scrie in alfabet latin, am citit "uodome"
+"e"-ul meu era b d-ala, de mana
+ba vin la tine sa iti cer un sfat, ca eu nu mai inteleg nimic
+am o clasa in C++, si inca una derivata din ea
+sa zicem ca A e clasa principala, B e clasa derivata
+vreau sa fac un constructor B(A variabila), care sa copieze continutul tuturor variabilelor din A si sa le bage in B
+care zici ca e cea mai eleganta metoda?
+toate variabilele din A sunt fie private, fie protected
+in momentul asta am functii publice get pentru fiecare variabila, dar e cam urat
+sau asa mi se pare
+chestia e urmatoarea
+din constructorul lui B, eu nu am acces la variabilele protected din clasa A
+ca sunt in clasa A. am acces la ce era protected in A si s-a copiat in B
+sau stai
+tu ce zici?
+class A {
+asta nu merge
+am uitat ; ma rog
+da
+pentru ca incearca sa acceseze un protected din clasa A
+la care nu are acces, ca el e clasa B
+clasa B are acces la propriile variabile, care s-au copiat din protectedurile lui A
+dar nu si la protectedurile lui A in sine
+pot sa apelez constructorul de mana, explicit?
+stai sa vad daca se poate in c_++
+a, super, e o metoda mai eleganta de a apela constructorul clasei de baza
+da, misto
+:)) nu, era o remarca
+cred?
+bine, du-te
+mersi
+si pe mine ma sperie
+dar incet incet invat
+mersi mult!
+sa ne plimbam?
+zici de maine, ca voia dobrin sa ne vedem?
+pai zi-i lui dobrin
+sau zi-i ca vrei sa scriem cod, si vin eu cu laptopul
+ma distrez
+codul merge, nu merge fisierul de intrare
+lol
+no idea
+nu m-am mai uitat deloc pe bucata aia de cod
+daca am adaugat, n-am adaugat acum
+tellg intoarce pozitia curenta din fisier
+nu mai stiu exact daca la citire sau scriere
+il bagasem cand pusesem variabila leaf
+da
+daca nu era frunza, voiam sa ii citesc copiii
+care copiii începuseră deja, ca nu era frunza, deci variabila leaf nu era acolo
+deci trebuia sa o iau inapoi cu un int
+si sa recitesc de acolo
+sfatul meu e sa faci doua functii de test
+in care sa faci citirea si scrierea intr-un fisier normal, ascii
+sa vezi pe ala ce nu merge
+apoi sa repari si in ala binar
+ia ca arunc si eu un ochi 10 minute
+ai mai modificat ceva?
+da?
+n-am observat
+si merge acum?
+m-am uitat si eu pe save si load, par ok
+cum adica
+ba, constructorul n-are ce problema sa aiba :)))
+ca doar apeleaza external
+in 5 minute
+da codul aici
+pune pe ideome
+ne
+ce avea formWord?
+findParent, a
+da
+ca nu merge pana la sigma
+ma mir ca nu imi dadea mie seg fault
+da, asta am vazut si eu
+lasa-l deocamdata, nu iti mai bate capul
+astept sa imi trimiti, si rezolv eu cu cititul
+wow, am invatat la facultate asta, dar n-am folosit niciodata
+structure packing
+de acolo am invatat si eu functiile
+dar n-am inteles ce e cu flagurile alea
+si apoi am citit asta
+Note: If you are a GNU g++ user (version 2.7.x or earlier), then do not use i/o mode flags when opening ifstream objects. Because of a bug in the GNU libg++ implementation, the flags will not be correctly interpreted. If you are working under Unix, omit the i/o mode flags entirely; if you are working with g++ under MS-DOS, then use an fstream object. This note applies to g++ users only.
+nu mi-am dat seama ca tu esti pe windows :))
+da
+eu ma gandeam la altceva
+incarcam trie-ul din fisier in memorie
+tinem o variabila care spune daca am modificat sau nu trie-ul
+si daca la final l-am modificat, mai apelam o data save external
+nu e cea mai rapida varianta, dar e cea mai simpla
+cum adica structura?
+da
+dar nu trebuie neaparat sa le salvezi ca noi
+mai pui cate o pozitie noua in sons de cate ori ai nevoie de muchie pe o litera pe care nu o aveai
+si schimbi configuration
+acum, asta s-ar putea sa fie un pic impractic la rulare
+inseamna multe delete-uri si new-uri
+pai cum nu?
+ba nu, ce era pe 1 ramane pe 1
+stai
+eu zic asa
+cel putin cand nu suntem in GENMODE
+tinem in memorie vectorul sons de marime sigma
+apoi la scriere in fisier il comprimam
+da, nu-i problema
+nu mai implementa asta
+pe la finalul saptamanii cred ca o sa am eu timp
+deci lasa-ma pe mine de aici
+oricum, acum prioritara e procesarea de text
+ma apuc eu de ea
+cum adica pe 2*biti?
+da
+nu e problema, nu cred ca e asa greu de implementat
+care kafka? :)))
+si eu ma bucur. ma uitam pe github: fix 7 zile
+a lol
+
+
+*imi pare rau ca am vorbit atat*
+sper ca e clar cel putin
+sau putem sterge partea asta de cod
+
+dar vrem sa stergem partea asta de cod?
+inca o clarificare: solicitare _este_ flexiune a lui "a solicita". de ce mi-l accepta ca cuvant de baza atunci?
+pentru ca vine inaintea lui "solicita" in fisierul de flexiuni. adica, complet arbitrar
+n a s o l
+am putea sa lucram pe un fisier de intrare care nu e sortat doar alfabetic, ci primul criteriu este partea de vorbire. si facem o ordine gen verb < adjectiv < substantiv
+logica e ca verbele se pot deriva/converti in substantive si adjective, deci sunt mai multe radacini "pure", adjectivele se pot converti in substantive, substantivele nu stiu in ce se mai convertesc
+nu stiu daca poate domi
+nu stiu daca xml-ul ala contine si informatiile astea
+pai si mie
+dar codul nostru de acum nu prea favorizeaza asta
+
+
+ok, perfect
+ma intorc mai la noapte pe el
+nu ma culc :))
+
+
+
+pentru asta era
+da, ma descurc. worst case hardcodez gramatica, dar sper sa nu fie nevoie
+sunt unele lucruri care pur si simplu nu se pot rezolva algoritmic, e nevoie de cineva sa le interpreteze
+"bronzul este solutionat galben"
+1: substantiv; 2: participiu al unui verb. nu stiu cum poti face programul sa le distinga
+omg
+genial
+si mai simplu
+ramai aici
+vector de 3 charuri
+
+bine
+sizeof-ul din citirea si scrierea in binar
+ala e in bytes
+in loc de sizeof(int), bagam 3 direct
+de aia sunt variabilele trimise prin referinta, si la citire si la scriere
+iar in structura mentinem int
+problem solved
+ah, asta ai zis si tu
+lol
+sa-mi trimiti si mie codul tau
+prezic ca vom avea nevoie si de un avl/red-black tree static
+pentru calcul eficient al frecventelor
+ala o sa fie rupere :))
+totusi, proiectul asta e o aplicatie foarte misto a structurilor de date clasice
+explic in cateva ore
+deci ideea e urmatoarea
+avem nevoie de o structura de date cu insert, find max si increase key rapid
+heap clasic ar fi o varianta, dar problema e la increase key
+increase key = creste frecventa
+cuvantului
+deci un abc echilibrat ar fi solutia, unde increase key de fapt inseamna delete si insert cu cheia noua
+acum, cu un map din stl ne-am scoate, ca ala tine un red black tree pe fundal
+_dar_ ne trebuie static. vreau sa ii dau niste texte, sa imi calculeze frecventa, sa ma culc, sa treaca o saptamana, sa ii dau alte texte si sa imi updateze frecventele deja calculate
+daca ai vreo idee mai buna, spune-mi
+am eu una: heap fibonacci static. dar lol, aia chiar e prea de tot :)))
+stai ca poate-s eu prosy
+t
+cum poti din trie-ul initial sa scoti cuvintele in ordinea cuvintelor?
+in ordinea frecventelor*
+sunt idiot :)))) ignora-ma
+sorry
+ai dreptate lol
+pai le bagi pe toate intr-un vector (O(n)) apoi sortezi (O(nlogn)). per total O(nlogn), adica la fel cum ar fi fost si cu avl :))) sunt idiot, aveam impresia ca trebuie find max pe parcurs
+da
+bai
+tu in germania, daca arunci o sticla de plastic de lapte batut de exemplu, o speli intai, nu?
+pai daca il speli, de ce nu l-ai arunca la plastic?
+nu, doar ne-au fost mentionati, n-am discutat implementari
+facusera unii pe stack overflow comparatie intre fibonacci si heap normal
+si mergea mai repede heapul normal, ca era tinut pe vector
+*daca* e mai rapid
+eu mi-am dat seama ce progresie de acorduri folosesc preponderent in melodii
+i vi, evident
+si asta de dinainte de tabara :))
+bai
+sa iesi la vot pe 26 mai, te rog eu
+ai sectie de vot in munchen, incearca sa-ti faci drum 30 de minute sau cat o dura
+sunt alegeri europarlamentare, deci cumva te afecteaza si pe tine de acolo, din germania
+pai du-te
+nu, faceam morometii daca ziceai ca nu te duci
+si eu iti ziceam ce mananci 
+iarta-ma ca nu iti raspund inca
+sunt un mic haos de ceva timp
+dar iti raspund in seara asta
+pana atunci, scalda-ti ochii aici
+asa
+nu prea are treaba cu kant ce zici tu
+
+
+auzi, tu stii sa deschizi capacul unui poljot?
+ca nu vreau sa-l stric
+dar vreau sa-i fac poza pe dinauntru
+da, ok
+nu poate fi prea greu
+ca toti analfabetii de pe olx le deschid
+dar o sa caut
+
+am pus-o pe zimmer acum vreo doua zile, nu mi-am dat seama ca tu nu esti pe grup :)))
+sa speram la ce e mai bun :))
+sa ii trimit si lui koch anuntul?
+iarta-mi raspunsul atat de intarziat
+bai, habar n-am, cert e ca se termina duminica si inca n-a licitat nimeni
+dar sunt 8 urmaritori, deci sper ca sunt pregatiti sa dea banul
+bai, s-a terminat cfr-ul ala de buzunar + inca un ceas la 33 de euro si eu am uitat de licitatie :(
+mi se pare putin rau
+gen 30 de euro sper eu sa fac pe poljotul ala :))) dar devine tot mai improbabil
+ma indoiesc noi sa fi luat din rusa
+contactul limbii romane cu limba rusa a fost practic... inexistent
+din slavona e altceva, dar ma indoiesc si din slavona sa-l fi luat
+dar e interesant ce zici si nu stiu sa explic. adica de ce atatea limbi fara legatura intre ele exprima o cauza favorabila _multumind_ acelei cauze? de unde pana unde sa ii multumesti? :)))
+o fi indo european. habar n-am
+mihaile, maine la vot, da?
+macron e cel mai ok cred eu
+dar nu stiu prea multe
+in orice caz, ce zice despre UE zice binisor, si aia ma intereseaza
+ba, doar nu PSD
+doar pnl si usr sunt variante pe bune in situatia asta
+vezi ca e si referendum simultan
+pe buletine de vot separate
+voteaza da
+stai ca iti dau sa citesti
+da
+da
+pai europene sunt :)) "ala normal" = europene
+dar nu pentru ambele, banuiesc
+da
+dar referendumul e strict pentru romania
+ziceau romani la franceza de doua voturi?
+atunci nu stiu despre ce ziceau
+bine
+ti-am dat linkul ala, nu?
+super
+bai, am inteles ca e coada pe la munchen
+chiar ma bucur
+sper sa nu iti piarda prea mult timp totusi
+canta foarte bine, nu as fi zis niciodata ca are 90 e ani
+super
+ma bucur ca te-ai dus
+pana la urma ce ai votat?
+a stai
+n-ai fost inca, acum vad :))
+doamne ce coada e
+
+
+in germania verzii sunt pe locul doi!!
+cu un ochi ma bucur si cu un ochi plang
+"scumpo"
+e ceva ce si tu ai intreba
+
+raspund curand la ce mi-ai trimis
+
+simt ca e corect sa raman aici trei ani de zile si sa ma chinui sa ma pun impotriva curentului - moral doar, nu crede ca ma apuc sa fac prostii
+m-am lasat de urcat pe acoperisuri :))
+bai, grecia ca grecia
+dar in republica moldova mai vrei?
+ma tot gandesc sa incerc un drum cu bicicleta, bucuresti-chisinau. mers de-a lungul dunarii, trecuta granita cu bacul. si in felul asta vezi toata realitatea republicii moldova "de la firul ierbii", trecand direct prin sate, pe sosele - nu inchis in masina sau in tren
+dar singur nu ma aventurez
+si paul nu merge pe bicicleta :(
+sau nu stiu, daca mai vrei sa ma insotesti la mare pe bicicleta
+cand vii in tara, evident
+daca raspunsul e "nu" la ambele, cred ca o sa ma duc singur cu bicicleta la mare, ca asta pot face si fara insotitor cred
+ca nu mai am stare
+sunt mai putin de 600
+sunt vreo 450 ces
+cred
+maine la mare ma???
+wow
+nu mi-am pus problema
+iti zic in vreo ora daca e ok
+dar cred ca nu vin totusi
+dar iti zic
+acum nu sunt intr-o dispozitie mentala extraordinara :))
+cred ca prefer mogosoaia
+faza e ca eu inca n-am terminat cu toate examenele
+iar bicicleta la mare o planuiam ca o chestie simbolica, odata ce termin
+acum e chiar cam din scurt
+dar mogosoaia suna bine
+atata numai ca trebuie sa ridic ceva de la posta de dimineata. pe la cat mergem?
+daca te tine, plecam noaptea la 3-4 si venim pe la 9-10, prindem rasaritul acolo
+eu cam duc lipsa de somn, dar as face-o
+daca nu... vad ca la posta deschid la 9. e cam tarziu cred
+poate ii trimit pe ai mei si ne vedem noi direct
+eu as fi super relaxat :))) chiar mi s-ar parea super misto
+dar evident, si tu sa poti
+altfel, ok, sa zicem pe la 10:30 la liceu?
+10:45
+bine
+daca vine pe bicicleta si tine pasul, da
+vezi ca am stabilit ca ramane duminica
+sa-l suni pe koch
+bine
+luni mai am
+dar mi-a cam scazut jumate din moral, azi am avut un examen absolut *jenant*, pe care si eu l-am facut... absolut jenant
+dar asta e, incerc sa ignor si sa merg la urmatorul :)))
+doua mai am, unul la fiecare
+da, azi 100% m-am ales cu o restanta
+nu e chiar... nasol, la toamna nu o sa mai am 14 examene si 7 eseuri
+deci o sa imi fie mai usor, sper, sa ma pregatesc
+in fine, vedem :)))
+vacaresti 
+ei  s ds fie totul bine
+si ca sa fie totul bine**** ce inseamna sa iti bulesti ecranul la telefon
+azi mi-a venit asta
+
+aici se incheie interesul meu pentru ceasuri rusesti. dau unwatch la tot pe ebay, olx, pe facebook, la tot
+este exact modelul pe care il cautam de la inceputul clasei a doispea, si e in stare extraordinara
+acum nu mai are sens sa ma uit dupa altceva :)) nici macar nu glumesc
+da, o zi buna
+zici ca ne-am instrainat si acum iti spun la revedere intr-un mod rece si sarcastic
+sau poate am doar prea mult spatiu liber in capul meu acum
+auzi
+esti on?
+inca una s-a mai intamplat azi: am castigat un snipe pe care l-am pus pe ebay acum vreo 10 zile si de care uitasem complet
+un obiectiv extraordinar, carl zeiss, si pe el il vanez de mult timp, cu un corp de aparat care nu merge dar nu pare grav + stativ
+daca aude koch cred ca nu ma mai primeste la el in casa
+ok, problema e ca cand am bagat snipe-ul (snipe = liciteaza automat pentru tine, cu 10 secunde inainte de final. sunt site-uri separate de ebay care fac asta) nu m-am gandit serios ca o sa castig
+aparatul e in germania si omul livreaza doar in germania
+intrebarea mea ar fi (si e o intrebare care chiar admite doua variante de raspuns: da sau nu; chiar nu vreau sa te fac sa te simti presat sa raspunzi da, in niciun caz): crezi ca ai putea sa il primesti tu? si fie sa il aduci cand vii in tara, ca nu e nicio graba
+fie, daca e prea mare pachetul si n-ai cum sa-l cari dupa tine (sincer nu cred ca poate fi asa mare), sa iti trimit eu banii de posta si sa il trimiti cu cele mai ieftine mijloace in romania. dar asta ti-ar manca din timp si nu vreau sa iti stau pe cap, deci e perfect ok daca ai prefera sa nu
+daca nu, eu ma descurc, stiu ca avea koch un om in germania care ii aducea chestii, il sun si il intreb. si daca nici aia, sigur gasesc vreun bisnitar sa-l aduca, ca am mai apelat la d-astia
+doar zi-mi sincer daca te-ar ingreuna
+(acuma, evident, intrebarea e: de unde are oltean atatia bani? am vandut o pedala de efecte pentru chitara. aveam _cu totul_ alte planuri cu banii aia, dar nu ma pot numi nefericit lol)
+da da, oricand poti
+credeam ca ai ajuns deja de mai devreme azi
+da ma, aveati dreptate
+sunt 250 de km pana la mare, sunt eu idiot
+a, pai e realizabil
+chiar, chiar e
+si sunt 670 metri de urcus, apoi 727 de coborare. e decent
+nu, nu, stai linistit
+am vorbit cu koch, il trimit la omul lui
+dar deocamdata sa ma inteleg cu vanzatorul, ca eu ii scriu in engleza, el imi raspunde in germana
+i-am raspuns si eu in germana, sper sa nu fi fost prea stricata
+am scris eu, dupa ce am cautat cuvintele in dictionar
+apoi am scris si in engleza si am dat translate
+si am comparat :)))
+da
+am maine un examen usurel, de la 12
+ultimul
+ma gandeam sa ies acum cu bicicleta, sa fac drumul casa - universitate de vreo 6 - 8 ori
+sa vad cat obosesc
+ca nu ma streseaza examenul ala :))
+:)))) e foarte posibil
+poate poimaine
+dar astept de la dobrin un raspuns, ca l-am invitat la comana
+daca dobrin zice da, primesti poza de la comana :))
+zi tu, e cat de cat corect?
+Hallo, es gibt kein Problem, ich kann sowhol als Freund bei PayPal als auch bei Überweisung bezahlen. Aber für PayPal brauche ich Ihre E-mail-Adresse, und für Überweisung brauche ich Ihre Kontonummer, damit ich weiß, wohin ich das Geld schicken soll.
+ah corect
+oricum nu stiam expresia, acum am aflat
+initial ii zisesem cu "beide", ca in engleza "both by..."
+hmmm interesant
+si "aber"-ul ala ce rol are?
+da, am vazut
+asta deja bate germana de care sunt capabil eu :)))
+ah, ok
+oricum nu prea stiu care forma e care
+am cautat explicit declinarile pe fiecare caz
+dar uite ca am gresit cazul
+dar "in dem" sau "in das" nu se foloseste deloc, sau pur si simplu nu e uzual?
+am inteles, asta e misto
+iarta-ma ca raspund atat de greu, nu stiu ce naiba am
+am cautat acum pe internet
+si in sarba/croata/bosniaca/? muntenegrina se conjuga
+tot cu un fel de conjunctiv
+dar de fapt ce e interesant in romana e ca nu se conjuga obligatoriu
+trebuie a ma lasa de alcool
+de exemplu
+fara ?
+nu, nu vine din rusa
+sau vine din rusa cam in aceeasi masura in care romana vine din italiana :)))
+uite, citeste si tu
+bai, dormi?
+mie mi-au dat o foaie de la spital pe care scrie sa imi fac "Control clinic si Rx la 10,20,30 zile in Policlinica"
+ai idee ce inseamna asta? sau unde sa ma duc?
+la universitar
+am inteles, mersi mult ca ai intrebat
+vorbesc si eu cu maica-mea acum
+mersi
+dar cred ca ma duc tot unde am fost prima data
+nu de alta, dar 10 zile deja au fost sambata
+si nu cred ca e bine sa mai astept
+dar mersi mult
+da
+da
+a zis doctorul ca se dezvolta bine
+si aparent doctorul era un prieten din facultate al maica-mii
+lol
+da
+o sa imi ramana o galma pe viata
+dar e ok :))))
+
+
+
+Ce message a été supprimé.
+
+pai da, exact
+dar nu inteleg de unde le scoate :))) i-ai bagat tu un dictionar, sa caute rooturile?
+adica de unde pana unde "octavian" in luceafarul, daca nu are la dispozitie decat _cuvintele din luceafarul_? :)))
+pai oricum asta cred ca voi face
+inainte sa ma apuc de functionalitate chiar
+fac o librarie pentru trie, o librarie pentru parser, si un singur cpp care doar face operatii cu ele
+da
+tu imi zici chestii complicate, eu iti pun o intrebare de cretin
+vreau sa comprim 3 char-uri intr-un int
+cum? le concatenez, binar
+arata ok asta?
+
+ca mereu hash devine ultimul char, si nu concatenarea lor
+pe de alta parte, daca in loc de OR bag XOR, merge. dar dupa capul meu si dupa logica binara pe care o mai stiu, cu XOR ar fi trebuit sa dea la fel
+da, hash e 0 la inceput
+si da, e int
+am lasat cu xor pana la urma
+ce nu are sens?
+nu are absolut niciun sens, stiu
+o sa iti trimit codul
+dar deocamdata nu e prioritate asa mare
+e organizat varza codul la trie
+trebuie sa fac niste curatenie in el
+am scris un parser foarte foarte simplu
+tot nu stiu ce naiba te-ai complicat tu atat :))
+acum sa vad daca merg si puse cap la cap
+ah, inca ceva
+am aflat de unde aparuse octavian in luceafarul: de la mine :)))
+am dat copy paste de pe wikisource
+si acolo erau niste poze, cu captionuri fiecare
+facea parte din caption :)))
+da :))
+in functia search
+
+de ce depinde de mode? mi se pare ca sunt doua moduri echivalente de a spune fix acelasi lucru
+ori folosim doar configuration tot codul, ori folosim doar vectorul de sons si configuration doar la scrierea in fisier
+dar sa le folosesti pe ambele si sa bagi pe ramurile unui if pe care o folosesti chiar nu cred ca are sens :)))
+ca e mai rapida citirea pe biti, daca esti in mode? de aia ai scris asa?
+si esti tu sigur ca mai e mai rapida citirea pe biti cand ii mai faci si un if-else si un apel de functie, si un acces de element pe vector?
+
+aoleu, acum am inteles
+...
+
+eu te bat pe tine
+sa decomprim trie-ul? pai tu ai optimizat tot in asa fel incat sa nu decomprim trie-ul
+am terminat acum de implementat prima varianta functionala pentru out of dictionary words
+tu stii in ce hal de mizerabil arata codul, pentru ca a trebuit sa decomprim doar _unele_ noduri, adica alea pe care aveam nevoie sa lucrez?? daca ma intorc in o ora, eu insumi nu o sa mai inteleg
+a doua chestie e ca ma scoate din sarite mode-ul ala
+sunt bucati intregi de cod care ar arata altfel fara el
+daca nu ai vreo idee mai buna, o sa fac doua cpp-uri separate
+sau nu stiu nici eu
+AAAAAAAAAAAHhhhhhhh
+la cat m-am chinuit, nu-mi vine sa cred ca merge
+(nu lucrez constant de azi noapte, stai calm)
+mai suna o data
+nici eu :(
+
+
+ok nu ma aud ca lumea
+
+Appel vocal manqué
+pe tine te mai intereseaza treaba aia cu grecia?
+de Morgan, imi place de tine
+daca ai chef, poti sa o faci. daca nu, eu mi-a-m notat, o fac eu, dar nu e prioritate asa mare
+efectiv inseamna ca dau inapoi in fisier. eu citesc in block-uri, si nimic nu-mi garanteaza ca ultimul cuvant din block chiar e un cuvant intreg, si nu e taiat pe din doua intre block-ul curent si urmatorul. asa ca dupa ce citesc atat cat am din el in block-ul asta, dau inapoi in fisier atatia bytes cat are cuvantul, si citesc urmatorul block. in felul asta, garantat nu imi e taiat pe din doua
+corect
+si daca chiar ai cuvantul "EOF" in text? :))) nu poti garanta, mai bine sa nu avem surprize. asa cum e acum, eu garantez ca niciun cuvant adevarat pe care il returnez nu incepe cu spatiu - pentru ca ciclez peste toate spatiile pe care le gasesc. deci evident " EOF", cu spatiu, nu va fi vreodata in text :)) am gandit-o
+daca vrei tu, ok. am zis sa imi scriu singur toate functiile de felul ala :))
+dimpotriva, ce spui tu cred ca s-ar putea sa nu mearga. nu ai idee pe ce fel de calculator ajunge sa fie rulat codul asta. daca, doamne fereste, e unul care nu foloseste two's complement, static_cast<int>(-1) nu o sa returneze 1 pe toti bitii unui int. in schimb ~0 cred ca face asta indiferent de calculator
+de ce? :))
+nush, eu nu m-am bagat peste functiile tale pe biti, tot treaba ta le las :))
+asta da, si eu voiam
+habar n-am, tot functia ta era, am lasat-o acolo, ca am zis ca stric altceva daca o sterg. dar cred ca ai dreptate, deja face parserul cleanWord, deci probabil cleanWordul tau nu mai are sens
+tu ai scris toate asserturile :)))
+cum adica cum e salvat? care e formatul? corect, trebuia sa las comentariu. pe primii 6 biti retin encodingul literei, pe urmatorii biti retin indicele parintelui. sunt doua chestii de reprosat: 1) de ce retin encodingul literei intr-o variabila care se cheama parent?? buna intrebare. pentru ca in general de encodingul ala am nevoie numai cand am nevoie si de parinte, si sa il pot accesa imediat, in loc sa il caut, mai imbunatateste _un pic_ din performanta. 2) daca am nevoie doar de 6 biti pentru encoding, de ce shiftez cu 7, si nu cu 6? de idiot. dar merge, nu are probleme. daca te deranjeaza, fa shiftarea cu 6
+cu ala am calculat cate noduri s-ar putea comprima
+merge mai bine? nu ar trebui sa fie totuna, ca complexitate? set of pairs tine un BST echilibrat in spate, are aceleasi complexitati ca un priority queue. iar cu set mai lucrasem eu si eram mai familiar, atata tot
+dar ok, google, cool. luam de acolo daca vrei
+e varza mare cu mode si GENMODE si am preferat sa nu ma gandesc la asta inca. discutam maine. a plecat de la mine cu #define-ul ala, sorry :)) dar o rezolvam
+bai, pe bicicleta ar fi extraordinar. daca doctorul imi zice ca pana pe la finalul lui septembrie e safe sa ma urc iar pe bicicleta, eu as face-o 100%. dar si fara bicicleta e o optiune
+iarta-ma ca nu raspund inca la ce mi-ai scris
+mai esti treaz?
+am scris rapid functia care face compresia pe subarbori degenerati
+*dar* avem o problema la care nu ne-am gandit
+hai ca iti arat pe desen
+stai, in primul rand: se pot comprima numai lanturi de cate 5 litere. daca vrei sa comprimi mai mult de 5 litere o data, iti trebuie mai mult de 40 de biti. (ce e misto e ca media ramane aceeasi: 8 biti per litera, indiferent daca comprimi cu int+char, sau cu unsigned long long+char. sper ca intelegi ce zic.) asta nu ma sperie: comprim in bucati de cate maxim 5 odata, si daca am un subarbore degenerat de mai mult de 5 noduri, o sa il comprim in doua sau mai multe
+sper ca are sens
+acum, desenul:
+
+
+sagetile din primul desen arata care e nodul de care va fi legata radacina dupa comprimare
+din pacate totul ar fi foarte frumos daca nu am lucra pe trie _static_ :)) sagetile alea sunt dragute, dar in cod se traduc doar in schimbarea unui buffer cu altul. eu nu pot sa sterg propriu-zis nodurile pe care le-am sters in desenul 2
+schimbarea unui ptr cu altul*
+unde devine asta o problema? la saveExternal, care lua in ordine toate nodurile din staticTrie si le scria in fisier. am zis, nu-i bai, in loc sa iau pe rand nodurile fac un DFS incepand din 0 si in fisier scriu ordinea din DFS. evident, trebuie sa calculez si pointeri noi pentru fiecare nod
+ce solutie buna, nu? nu :)) calculez pointeri noi, dar inca ma folosesc de pointerii vechi la cuvintele derivate - variabila "code", care imi dadea pointerul radacinii. code-ul fiecarui derivat trebuie updatat si el la pointerii noi
+nasol! pentru ca eu pentru fiecare derivat, stiu care e rootul, dar pentru un root, nu stiu si care ii sunt derivatii. or, din DFS-ul din saveExternal, eu ar trebui sa pornesc din rooturi spre derivati
+ca sa rezolvam problema asta, eu vad doua variante, poate iti vine tie vreo alta:
+zi-mi si tu ce parere ai, ca nu mai codez nimic pana nu hotaram ceva
+sper ca am explicat clar problema
+the good news is, am scris pana acum doar functia care comprima, si aia cel putin nu a dat seg fault cand am testat-o :))
+m-am trezit acum 20 de minute
+mi-am taiat niste felii de pepene
+si mi-a venit solutia
+daca inca te mai gandesti sa pleci in rusia
+
+
+oricum, iti dai seama ca o sa se termine la multi bani
+
+
+super
+da, eu o sa incerc azi sa parsez eminescu wikisource atunci
+stii ca baietii pleaca la cacova maine?
+eu nu pot in perioada asta, o sa iti zic
+poate prin septembrie
+:)))) cum adica?
+eu sunt cu ai mei afara acum
+nu prea pot sa vorbesc vocal
+vorbim un pic mai pe seara
+mersi
+si tie
+nu m-am apucat inca
+iar am intrat intr-un program de somn cat de cat normal
+adica acum imi vine sa adorm
+dar in continuare uit, si imi spun "ah, fac la noapte"
+lol
+da, probabil asta voi face
+dar mai trag de mine macar pana la 12
+ca ma enerveaza sa ma scol prea devreme :))
+tu ce faci, ai ajuns in tara?
+bine, somn usor!
+or face nemtii asa, dar eu am o singura baie in casa, si ai mei pleaca la munca dimineata
+e cam inutil sa fiu treaz la 6 daca nu ma pot trezi propriu-zis :))
+
+
+acum trebuie un mecanism pentru caracterele neromanesti...
+
+exista cuvantul "Kant" in eminescu, e ok
+totul pare ca merge bine
+dar vai de mine cat sunt de in urma cu literatura
+mai e o luna jumate de vacanta, cred ca o sa trag tare
+da, am ajuns bine
+noapte buna
+
+
+
+scuze ca n-am mai lucrat, nu m-am simit foarte bine in ultima vreme
+stiu ca suna a scuza pe care i-o zici profei cand nu iti faci tema :))) dar nu mereu ii minti pe profi
+
+
+
+
+octombrie a 12-a
+nu
+august intre a unspea si a doispea
+100%, ca mi-am notat
+lucrai la germana
+nu, era lidia :)))
+in parc la unirii
+
+
+la un moment dat nu o sa mai am poze pe care nu le-am trimis
+dar mai e pana atunci
+da
+:))) bine, mult succes
+ne vedem, da
+
+
+lui domi cred ca i-am mai trimis-o pe aia
+deci las doar aici
+mi-e teama ca trebuie sa cultivi un soi special de mucegai ca sa faci branza aia scumpa :)))
+de la scan
+pot sa o fac mai neagra, stai
+film subexpus + scan facut automat
+
+da :))))
+stai o secunda
+meh, aveam niste poze cu koch lucrand si textul de la hornbach
+dar nu le mai gasesc
+sau asa
+
+daca sesizezi diferente, zi-mi care iti place mai mult
+da, corect
+fix in functie de cap am schimbat culorile
+adica relativ la cap
+
+
+
+hmm?
+ce nu face singur staticTrieAccess?
+din memoria mea, nu
+
+
+
+
+Ce message a été supprimé.
+Ce message a été supprimé.
+
+
+
+
+
+
+
+apropo
+corpusul ala costa 5000 de euro :)))
+akinator.com
+intra, joaca-te putin
+o sa zici "oltene, ce e asta?"
+dar stai un minut si gandeste-te de ce iti trimit
+citeste despre coeficientul lui gini si spune-mi if it rings a bell
+
+
+
+
+
+Ce message a été supprimé.
+
+ma astept sa imi corectezi tu matematica :)))
+evident, insa: o functie e derivabila intr-un punct numai daca e continua in punctul ala. probabil va trebui sa transformam multimea de puncte discrete in ceva continuu intai
+adu-mi, te rog, aminte sa iti raspund si la restul. adica mai da-mi tu in mesaj
+nu pot sa cred ca am zis "derivam in fiecare dintre autori"
+:)))))
+dAr La cE Ne TrEbuIe LiTeRaTUrA dAcA Eu VrEAu Sa fAc mAteMaTIcA???
+drum bun!
+
+
+nu, nu, nu s-a intamplat nimic
+adica sunt bine
+raspund la tot astazi
+daca te intrebai de ce nu raspund
+
+da, da, ma gandisem o secunda ca ai stat treaz, apoi mi-am dat seama ca nu se poate
+scriu greu sry
+bine, mersi
+da
+acum m-am si pus la masa sa lucrez
+
+aha
+tu faci un fel de suma riemann acolo
+am priceput
+dar nu cred ca e necesar
+cred ca formula aia de ti-am trimis-o da exact acelasi rezultat
+stai ca mie nu imi dau calculele
+am facut un dus, m-am pus sa calculez
+si parca pare prea simplu :)))
+e efectiv doar 1 - aria de sub grafic?
+coeficientul gini
+graficul asta
+nu sunt sigur ca e corect ce ai facut aici
+mi se pare ciudat sa fie mai mult de tan 45
+din moment ce functia este _sub_ f(x) = x
+dar stai sa imi dau seama de ce
+hmmm
+corect
+da, asa e
+dar tu ziceai ca s-ar putea sa fie o problema daca f(x) = x
+adica daca e egalitate perfecta
+tot nu vad de ce ar fi o problema
+da
+stai, de ce?
+?
+adica da, se poate
+si mi se pare corect, cred
+daca a folosit un cuvant doar intr-un singur text, frecventa lui o sa fie 0
+si "si" si "la" vor fi mai importante
+dar chiar sunt mai importante
+deci tu esti la pasul urmator, da, ok
+stai sa ma gandesc
+ia-ma usor lol
+deci
+prima derivata reprezinta cat de mult a folosit un autor cuvantul, _relativ la ceilalti autori_
+e normal ca unele cuvinte sa aiba weight mai mic decat "la" si "si"
+un weight apropiat de 1 inseamna ca cuvantul e bine distribuit pe toti autorii, cred
+mai mic, inseamna ca relativ la ceilalti autori, l-a folosit rar. mai mare, ca l-a folosit des
+deci asta nu e o problema
+stai sa ma gandesc la a doua derivata acum
+:)))) bine, te las sa te culci
+noapte buna
+ma gandesc si-ti zic
+no joke
+
+
+scrii procente in loc de valori absolute
+insumate procentele dau 1
+sau 100 ma rog
+ba cum nu?
+
+
+nu, prima idee a fost frecventa relativa pe fiecare text
+frecventa cuvantului x raportata la cate cuvinte sunt in total
+in text
+suma... nu stiu
+ti-am zis, acolo m-am cam blocat
+Ce message a été supprimé.
+
+eu am facut cu precizie de doua zecimale
+si mi-a dat 0.98
+deci cred ca ne da acelasi lucru
+iti zic in 10 minute
+mersi
+somn usor
+sunt cam haotic zilele astea lol
+acum citesc
+bai, nu prea inteleg
+poti sa imi exemplifici pe abate?
+Appel vocal manqué
+Appel vocal manqué
+si vezi ca se inmulteste cu 100/nr. cuv
+tu ai zis invers
+tnx
+
+inmultit cu 200 / nr. cuvinte
+apoi facut procent
+pe toate?
+acum m-am apucat, da
+nu fac cu 1 - gini oricum
+pentru ca gini in sine e 1 - 2 * cea
+ceva **
+si nu are rost sa fac "1 -" de doua ori
+
+
+cred ca am modificat
+altfel nu s-ar fi afisat asa
+cum sortez descrescator intr-un map?
+bine, mersi
+da
+cred ca avem o mica problema
+dar pana atunci, am eu un mic bug
+nu mai avem nicio problema 
+dar eu tot am un mic bug
+
+formula este:
+ugh, lasa, e greu de scris
+ideea e urmatoarea
+am mai impartit o data si la numarul de poezii
+deci eu inmulteam frecventa scalata cu 1 - gini
+dar trebuie freq / numPoems * (1 - gini)
+pentru ca frecventa aia trebuie scalata si _intre autori_
+daca nu fac asta, toate sunt de vreo 100 de ori mai mari
+apoi bag farago, la ea toate sunt de vreo 100 de ori mai mici
+not ok
+impartind la numarul de poezii, se normalizeaza
+da, stai sa iti arat si farago
+
+"de" e aproape la fel
+nu stiu de ce e "si" atat de greu
+care frecvente?
+
+gini pur la eminescu
+nu are de ce sa fie 100
+da
+bine
+mersi!
+Total progess: [65%]
+poti, te rog, sa rulezi si tu asta pe codul vechi? sa stiu daca e de la modificarile mele sau nu
+misto!!!
+foarte tare omule
+how about
+un map de la word la heap de poet,weight
+dar asta nu inteleg
+in fine, eu am scris deja partea asta de algoritm, si am scris-o asa
+dupa care am sortat la fiecare word
+problema e ca m-am blocat la polinom
+nu vreau sa bag python
+ma asteptam sa existe vreo biblioteca cu asta deja implementat, n-am gasit
+cred ca voi invata si scrie de mana algoritmul de polinomizare
+acum, intrebare de lenes: _chiar_ ne trebuie derivata?
+vreau sa vad unde este the steepest o functie definita prin puncte
+pai nu pot pentru fiecare punct sa calculez delta fata de punctul precedent, apoi sa sortez delta-urile?
+Appel vidéo manqué
+
+
+(sunt cu minus toate pentru ca am facut o nesimtire)
+(mi-era lene sa scriu comparatorul pentru set asa incat sa sortez descrescator, asa ca toate valorile le-am bagat negative. lol)
+asta e codul pe care lucrez eu. reuneste tu cu modificarile tale
+ca sa rulezi, faci exact ce ai scris pe github
+dupa care ii bagi
+atat, parca
+sa rezolvi cu diacriticile cand ai timp
+
+da, clar
+foloseste  comanda diff
+
+
+suna-ma cand ai timp
+Appel vocal manqué
+Appel vocal manqué
+.
+Wt,d = TFt,d log (N/DFt)
+overallFreq / numPoems * gini
+iti trimit ceva
+...daca mi-ar merge calculatorul
+ala va fi un indicator al cat de inegal e distribuita inegalitatea distributiei cuvantului 
+
+1 - gini pe toti autorii pentru "ochi"
+highlight - eminescu
+valoarea e printre cele mai mari
+deci la eminescu "ochi" este mai egal distribuit decat la cei mai multi
+ne trebuie o metoda matematica de a cuantifica asta
+
+pot sa te sun?
+ok
+poti sa faci un polinom din astea?
+o secunda
+:)))
+era la modul
+"would you?"
+nu "can you?"
+brb un pic
+incerc sa incarc ceva de pe telefon pe internet
+si nu cred ca e capabil sa si vorbeasca pe whatsapp simultan :))
+pana reusesc sa te sun
+
+asa e, ambele ceasuri pe aceeasi mana
+inegal distribuit
+dar tu gandeste-te
+^
+da
+poti si cu, si fara?
+daca facem gini, ba da
+daca nu, nu
+acum te sun
+ochi 0.030331
+
+nu toti au ochi?
+Derivatele sa aiba val similare intre cuvinte
+mersi mult!
+s-ar putea si eu sa adorm
+dar lucrez acum cat de mult pot
+noapte buna
+crezi? nu cred
+a, ba cred ca ai dreptate
+dar e mult mai simplu sa derivezi
+da
+nu m-am uitat inca
+bine
+daca tu pui (0,0)
+fct de gradul 1?
+da
+pai si e ok
+e doar cuvantul acelui poet
+ramane frecventa, neinmultita cu nimic
+frecventa/numar de poezii
+dar ma mai gandesc la asta
+noapte buna
+asta e unidecode-ul modificat de mine
+ia-l si instaleaza-l
+asta sterge _orice_ unicode dintr-un text, mai putin diacriticele romanesti
+ok
+ma uitasem pe github si am vazut ca bagasesi unidecode in README acolo
+am zis nush, poate ajuta
+e mai simplu sa raspund de aici. ma astept ca derivata normalizata sa fie mica mica mica de tot. aproape 0. "la" ar trebui sa aiba distributii relativ egale la toti autorii. si curba lorenz sa fie aproape dreapta. that's my bet - si in cazul asta, o sa fie irelevant ca e fr_rel mare, pentru ca se va micsora cu multe grade de marime la inmultirea cu derivata
+oricum, pe undeva, noi nu vrem sa eliminam "de", "la", "si" etc _cu totul_. poate cineva chiar foloseste cuvintele astea mai mult. si atunci inmultirea cu frecventa relativa le va duce mai sus in clasament
+Ce message a été supprimé.
+hmmmmmmmmm
+si tie ti se pare asta mic?
+fr rel e nr. aparitii/nr. poezii
+cum adica asa zic?
+hai sa iti zic ce zic
+avem cuvantul "word". word apare la doar 2 autori, dintr-un total de 54. gini2 la acei autori pentru "word" este 0.51, respectiv 0.52. facem polinom si derivate: derivatele vor fi mici, pentru ca cresterea e foarte mica intre cei doi autori
+dar _numai la ei doi apare_. e ca si cand sunt acei 2 autori, si inca 52 de autori cu gini2 0. ai sa zici: ok, ii punem si pe aia cu 0 in polinom (desi o sa se faca o varza, gandeste-te ca alea toate ar trebui sa fie radacini pentru un polinom. ar arata urat rau graficul ala, deloc precum curba lui lorenz). intrebarea mea este: pai si daca ii punem pe aia cu 0, derivatele in aia cu gini2 diferit de 0 se schimba? eu cred ca nope
+fix asta cred ca e solutia :))))
+propun formula: weight = fr_rel * (derivata lui gini2 / (1 - gini pe graficul cu autori))
+in al doilea rand, eu nu mai stiu exact la ce ne referim prin "derivata normalizata"
+cred ca e
+inca nu m-am uitat
+si de fapt, daca e ok, o sa scriu cod mai incolo un pic, acum vreau sa lucrez la o melodie
+sper sa n-adorm
+
+evident ca nu uit
+iarta-ma, am avut niste zile destul de pline
+ma misc greu, stiu
+dar cum sa uit ma :))) nu uit
+nope, fac eu
+fii rabdator
+
+nu esti enervant, stai linistit
+ai cum sa ma ajuti cu o chestie? eu mi-am pierdut toate mesajele din perioada 24 - 28 septembrie
+in perioada aia ti-am trimis si tie niste formule noi, pe care ar fi util sa le am in fata clar, ca sa nu gresesc incercand sa imi amintesc
+poti sa te uiti prin ele si sa imi trimit un screenshot?
+poze cu formule :))
+sau stai, hai sa o luam acum, corecteaza ce gresesc. facem asa:
+asa era?
+eu ziceam sa faci screenshot la mesaje, dar e ok si asa
+ok
+bine
+da, da, a fost ok
+roaga-te sa nu adorm inainte sa scriu ceva cod functional :)))
+bine
+mersi!
+ce-ai spart...
+eu le-am spart CNP-urile colegilor de la filosofie
+tinem flacara aprinsa
+bruteforce
+sunt bou
+asa a mers :))
+
+prin internet!
+?
+bine
+vorba aia
+dormeau adaaaanc sicrieele de pluuumb
+
+am o singura litera pentru tine:
+R
+cred ca trec pe R toata partea de statistica
+inclusiv polynomial fittingul
+te deranjeaza?
+efectiv exista functia Gini deja implementata in R :)))
+da
+eu am un curs la facultate in care lucram cu R
+deci ma ajuta si sa invat
+da
+nu cred ca e cu biblioteci
+dar brb, am curs acum
+acum incepe
+
+
+
+
+

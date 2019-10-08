@@ -1,28 +1,11 @@
-import tornado.ioloop
-import tornado.web
+# Role:
+# It takes an already trained model (ann) and solve the diacritics from infile 
 
-import json
-
-
-class MainHandler(tornado.web.RequestHandler):
-    def initialize(self, ann):
-        self.ann = ann
-
-    def get(self):
-        text = self.get_argument("text")
-
-        self.write(json.dumps({
-            'output': self.ann.predict(text),
-        }, ensure_ascii=False))
-
-        self.set_header('Content-Type', 'application/json')
-        self.set_header('Access-Control-Allow-Origin', '*')
-
-
-def serve(model):
-    app = tornado.web.Application([
-        (r"/", MainHandler, dict(ann=model)),
-    ])
-
-    app.listen(8881)
-    tornado.ioloop.IOLoop.current().start()
+def serve(ann, infile):
+    outfile = open(infile.replace(".txt", "") + ".ok", "w")
+    
+    with open(infile, 'r') as myfile:
+        data = myfile.read()
+        
+    outfile.write(ann.predict(data))
+    pass

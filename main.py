@@ -1,3 +1,11 @@
+# Instructions:
+# Training: you should have a text which is written with diacritics.
+# Within the implementation, a new text without diacritcs is created, which will be the baselin for training.
+# For that: python main.py train --train train.txt --test validation_data.txt --epochs 200
+
+# Transform into diacritcs: python main.py serve --weights output.hf --test test.txt
+# We changed a bit the structure, but --test refers both to the validation_data and the text to be analyzed
+
 import argparse
 import os
 from ann import NeuralNetwork
@@ -47,7 +55,7 @@ if __name__ == "__main__":
                 epochs=args.epochs, batch_size=args.batchSize)
 
     if args.action == "serve":
-        serve(ann)
+        serve(ann, args.test)
 
     if args.action == "cli":
         while 1:
